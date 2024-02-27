@@ -36,8 +36,8 @@ const personagens = [
     },
     {
       id: "7",
-      name: "donkey_kong",
-      img: "./src/img/Donkey_kong.png",
+      name: "turtle",
+      img: "./src/img/turtle.png",
     },
     {
       id: "8",
